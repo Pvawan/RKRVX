@@ -8,6 +8,7 @@ parallel-jobs = 4
 
 
 [Music-Extended]
+enabled = false
 app-name = "Music"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
