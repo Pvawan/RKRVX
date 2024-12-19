@@ -12,7 +12,7 @@ build-mode = "both"
 arch = "both"
 version = "7.31.51"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-patches-version = "v5.1.1-dev.2"
+patches-version = "v5.5.0-dev.1"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
