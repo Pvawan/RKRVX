@@ -37,7 +37,6 @@ enabled = false
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced"
 build-mode = "both"
 arch = "arm64-v8a"
 version = "19.47.53"
